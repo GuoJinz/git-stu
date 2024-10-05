@@ -15,5 +15,5 @@ hello guojinzhou! hello wangdan! hello git!
 hello guojinzhou! hello wangdan! hello git!
 hello guojinzhou! hello wangdan! hello git!
 hello guojinzhou! hello wangdan! hello git!
-hello guojinzhou! hello wangdan! hello git!
+hello guojinzhou! hello wangdan! hello git! hot-fix test
 hello guojinzhou! hello wangdan! hello git!
